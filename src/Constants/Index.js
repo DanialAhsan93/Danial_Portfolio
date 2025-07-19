@@ -30,6 +30,7 @@ import {
     reactresume,
     hospitalprg,
     consultant,
+    mernblog,
 
   } from "../assets";
   import audro from '../assets/audro.jpg'
@@ -208,12 +209,12 @@ import {
   
   const projects = [
     {
-      name: "Weather app",
+      name: "Mern blog",
       description:
-        "Web-based platform that allows users to search weather info around the world for various reasons, providing a convenient and efficient solution for business needs.",
+        "Mern blog is a blogging site with user and admin dashboard , profile, create and edit post functionality with authentication and  google Auth working with mongodb and node.js (express) .",
       tags: [
         {
-          name: "react",
+          name: "MERN",
           color: "blue-text-gradient",
         },
         {
@@ -221,13 +222,13 @@ import {
           color: "green-text-gradient",
         },
         {
-          name: "bootstrap",
+          name: "tailwindcss, flowbite react",
           color: "pink-text-gradient",
         },
       ],
-      image: weatherapp,
-      source_code_link: "https://github.com/DanialAhsan93/weatherreact",
-      source_link:"https://DanialAhsan93.github.io/weatherreact",
+      image: mernblog,
+      source_code_link: "https://github.com/DanialAhsan93/mern-blog",
+      source_link:"https://danialahsan93.github.io/mern-blog/",
     },
     {
       name: "gadgethub",
@@ -297,6 +298,28 @@ import {
       source_code_link: "https://github.com/DanialAhsan93/Audro-App",
       source_link:"https://danialahsan93.github.io/Audro-App/",
 
+    },
+    {
+      name: "Weather app",
+      description:
+        "Web-based platform that allows users to search weather info around the world for various reasons, providing a convenient and efficient solution for business needs.",
+      tags: [
+        {
+          name: "react",
+          color: "blue-text-gradient",
+        },
+        {
+          name: "github",
+          color: "green-text-gradient",
+        },
+        {
+          name: "bootstrap",
+          color: "pink-text-gradient",
+        },
+      ],
+      image: weatherapp,
+      source_code_link: "https://github.com/DanialAhsan93/weatherreact",
+      source_link:"https://DanialAhsan93.github.io/weatherreact",
     },
     {
       name: "Hospital-Landingpage",

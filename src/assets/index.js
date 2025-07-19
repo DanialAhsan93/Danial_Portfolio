@@ -37,6 +37,7 @@ import gadgethub from '../assets/gadgethub.png';
 import reactresume from '../assets/reactresume.png'
 import hospitalprg from '../assets/hospitalprg.png'
 import consultant from '../assets/consultant.png'
+import mernblog from '../assets/mernblog.png'
 export {
   logo,
   backend,
@@ -74,5 +75,5 @@ export {
   reactresume,
   hospitalprg,
   consultant ,
-
+mernblog
 };
