@@ -74,6 +74,6 @@ export {
   gadgethub,
   reactresume,
   hospitalprg,
-  consultant ,
-mernblog
+  consultant,
+  mernblog
 };
